@@ -1,6 +1,7 @@
 # CalculadoraAngular
 
-![image](https://user-images.githubusercontent.com/19364556/209195300-9b5f6c6d-d136-469d-b010-6fd7cf052353.png)
+![image](https://user-images.githubusercontent.com/19364556/209195442-6d2fdcce-13ec-4da8-8139-323f4241c368.png)
+
 
 # CalculadoraApp
 
